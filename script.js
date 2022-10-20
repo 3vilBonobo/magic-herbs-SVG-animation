@@ -1,3 +1,4 @@
+import { gsap } from "gsap";
 let sage = document.getElementById("sage");
 let mandrake = document.getElementById("mandrake");
 let belladonna = document.getElementById("belladonna");
